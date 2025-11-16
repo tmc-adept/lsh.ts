@@ -1,0 +1,10 @@
+{
+  "env": {
+    "es2022": true,
+    "node": true
+  },
+  "rules": {
+    "recommended": "error",
+    "typescript/no-unused-vars": ["error", { "argsIgnorePattern": "^_" }]
+  }
+}
