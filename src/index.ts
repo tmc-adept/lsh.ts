@@ -1,2 +1,2 @@
-export * from './minhash';
-export * from './lsh';
+export * from './minhash.js';
+export * from './lsh.js';
