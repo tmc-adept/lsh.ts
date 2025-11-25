@@ -1,4 +1,4 @@
-import { Minhash } from './minhash';
+import { Minhash } from './minhash.js';
 
 export interface LshOptions {
     /** Number of hash values grouped together into a band. */
